@@ -1,0 +1,2 @@
+# MNIST
+predict digit 
