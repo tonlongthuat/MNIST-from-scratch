@@ -1,0 +1,4 @@
+numpy
+pandas
+gradio==3.44.4
+setuptools
